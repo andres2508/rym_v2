@@ -1,0 +1,13 @@
+{
+  "sign_in": "Iniciar sesión",
+  "sign_up": "Crear cuenta",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "unexpected_error": "Ocurrió un error inesperado.",
+  "retry": "Reintentar",
+  "forgot_password": "Olvidé mi contraseña",
+  "login_incorrect": "Correo o contraseña incorrectos",
+  "language": "Lenguaje",
+  "spanish": "Español",
+  "english": "Ingles"
+}

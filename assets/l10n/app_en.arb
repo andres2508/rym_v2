@@ -1,0 +1,13 @@
+{
+  "sign_in": "Sign in",
+  "sign_up": "Sign up",
+  "email": "Email",
+  "password": "Password",
+  "unexpected_error": "An unexpected error occurred.",
+  "retry": "Retry",
+  "forgot_password": "Forgot my password",
+  "login_incorrect": "Incorrect email or password",
+  "language": "Language",
+  "spanish": "Spanish",
+  "english": "English"
+}
